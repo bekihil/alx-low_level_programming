@@ -2,8 +2,7 @@
 
 
 
-/**
- *
+/*
  *  * main - Entry point
  *
  *   *
