@@ -1,1 +1,1 @@
-first C in comand
+hello readme
