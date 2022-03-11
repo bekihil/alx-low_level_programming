@@ -1,1 +1,1 @@
-readmeeee
+first C in comand
