@@ -16,5 +16,4 @@ void *malloc_checked(unsigned int b)
 	}
 	return (g);
 }
-© 2022 GitHub, Inc.
-Terms
+
